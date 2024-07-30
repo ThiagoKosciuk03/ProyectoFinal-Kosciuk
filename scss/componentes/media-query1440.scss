@@ -1,0 +1,43 @@
+@media screen  and (min-width: 1440px) {
+ 
+    .d-inline-block{
+        width:200px;
+        height: 100px;
+        margin-left: 10px;
+    }
+   
+    .nav-item .nav-link{
+        font-size: 32px;
+    }
+
+    .logo-footer {
+        display: block;
+        margin-bottom: 1rem; 
+        width: 200px;
+        height: 100px;
+    }
+
+    .ImagenesDetalles {
+        margin-left: 30px;
+        padding: 10px;
+        width: 700px;
+        height: 500px;
+        
+        }
+
+        .TitulosPagina { 
+            font-size: 38px;
+            }    
+
+
+    .Parrafos{
+        margin-left: 30px;
+        font-size: 25px;
+        margin-top: 20px;
+    }
+
+    .Parrafo-Nos{
+        font-size: 25px; 
+        margin-top:  40px;
+        }   
+}
